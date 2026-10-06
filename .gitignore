@@ -1,0 +1,10 @@
+# Local Sites deployment and build folders
+.openai/
+site/
+dist/
+
+# Original source media stays local; GitHub Pages uses docs/assets/
+1004 (4)(1).mp4
+VID-20261006-WA0000.mp4
+VID-20261006-WA0001.mp4
+Rishabh_Vishwakarma_Video_Editor_Resume.pdf
